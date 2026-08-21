@@ -111,9 +111,7 @@ Dataset A
 
 The final binary framework combines calibrated HGB and EBM probabilities:
 
-[
-P(CVD) = 0.75P_{HGB} + 0.25P_{EBM}
-]
+[P(CVD) = 0.75P_{HGB} + 0.25P_{EBM}]
 
 The framework evaluates both prediction quality and quantitative explanation reliability.
 
